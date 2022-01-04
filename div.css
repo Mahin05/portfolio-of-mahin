@@ -1,0 +1,13 @@
+.HEADER{
+    text-align: center;
+    background-color:thistle;
+    padding: 10px 50px;
+    border: 5px solid black;
+}
+.nav{
+    background-color:cadetblue;
+    width: 30%;
+    height: 400px;
+    text-align: justify;
+
+}
